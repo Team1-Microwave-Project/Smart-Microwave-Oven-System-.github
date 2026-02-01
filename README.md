@@ -5,9 +5,9 @@ Project Overview
 A Python-based smart microwave oven system with GUI interface, recipe management, and advanced cooking features.
 
 Team Members
-Harrison Scgalski,
+Harrison Scgalski(Team Lead),
 Arturo Menchaca,
-Oladipo Towobola and
+Oladipo Towobola(Lead Developer) and
 Oliver Michael Wilderman
 
 
