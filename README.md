@@ -4,7 +4,7 @@ Smart Microwave Oven System
 Project Overview
 A Python-based smart microwave oven system with GUI interface, recipe management, and advanced cooking features.
 
-Team Members
+Team Members:
 Harrison Scgalski(Team Lead),
 Arturo Menchaca,
 Oladipo Towobola(Lead Developer) and
